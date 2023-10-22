@@ -41,3 +41,17 @@ npm run build
 ```
 
 This project is deployed on [Vercel](https://vercel.com/).
+
+## Testing
+
+```bash
+bun test
+# or
+yarn test
+# or
+pnpm test
+# or
+npm run test
+```
+
+Unit tests are written with [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
