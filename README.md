@@ -31,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Deployment
 
 ```bash
-bun --bun run build
+bun run build
 # or
 yarn build
 # or
