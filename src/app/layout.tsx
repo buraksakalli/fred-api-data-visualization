@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
+import { Hero } from "@/_components/Hero/Hero";
 import { Navbar } from "@/_components";
 
 import "./globals.css";
-import { Hero } from "@/_components/Hero/Hero";
 
 const inter = Inter({ subsets: ["latin"] });
 
